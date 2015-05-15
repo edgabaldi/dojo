@@ -1,0 +1,18 @@
+Data: 14/05/2015    Inicio: 21:30 Termino 23:10
+Participantes: 
+ * Edgar
+ * Élysson MR
+
+Problema Escolhido: http://dojopuzzles.com/problemas/exibe/encontre-o-telefone/
+
+Massa:
+ * c9.io é um ambiente perfeito para praticar dojo em grupo.
+ * O refatoração do problema ficou melhor do que o esperado.
+ * O DOJO não tedênciou a testes que não agregam valor aos mesmos.
+ * As etapas do TDD foram seguidas, na maioria do tempo.
+ * A mecânica de Refatoração para extrair um método foi seguida segundo o livro Refactory (Martin Fowler)
+
+Paia:
+ * Poucos participantes.
+ * Problema pareceu razoável mas no fundo era fácil.
+ * Sdds Chefinho ='( (comentário do Elysson)
